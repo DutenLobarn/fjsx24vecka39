@@ -1,0 +1,12 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  background-color: brown;
+  font-size: clamp(1rem, 5vw, 3rem);
+  /* width: clamp(50px, 33%, 50%); */
+  /* height: clamp(100px, 20%, 50%); */
+}
